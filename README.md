@@ -18,7 +18,7 @@ Requirements
 
 Usage
 
-dns.exe --set 1.1.1.1 8.8.8.8 --name "Cloudflare+Google"
-dns.exe --show
-dns.exe --benchmark
-dns.exe --about
+    dns.exe --set 1.1.1.1 8.8.8.8 --name "Cloudflare+Google"
+    dns.exe --show
+    dns.exe --benchmark
+    dns.exe --about
